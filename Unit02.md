@@ -107,7 +107,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Lecture: iTunes U: American University: Professor Patrick
     Jackson’s “Realism” Lecture**
     Link: iTunes U: American University: Professor Patrick
-    Jackson’s [“Realism”](http://deimos3.apple.com/WebObjects/Core.woa/Browse/american.edu.1818658810) Lecture
+    Jackson’s [“Realism”](https://itunes.apple.com/bb/itunes-u/world-politics-2007/id438289830?mt=10) Lecture
     (iTunes U)  
         
      Instructions: Click on “View in iTunes” for lecture 1 titled
